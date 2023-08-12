@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+
+.div{
+    margin-top: 120px;
+   border-radius: 21px;
+   box-shadow: -30px 20px 100px 10px rgba(251, 24, 78, 0.47),30px -20px 100px -5px #152cc1;
+   height: 410px;
+   width:41%;
+   margin-left: 396px;
+   text-align: center;
+}
+
+#heading{
+    font-size: 60px;
+}
+
+#n1, #n2{
+    font-size: 30px;
+    color: black;
+}
+
+
+
+/* -------------buttons------------- */
+
+.button{
+    margin-top: 30px;
+}
+
+#plus, #minus, #multi, #divide{
+    font-size: 39px;
+    margin-right: 10px;
+    width:60px;
+    color: white;
+    background-color: black;
+    font-weight: bolder;
+}
+
+
+
+
+#result{
+    margin-top: 21px;
+}
+
+
+#result{
+    font-size: 30px;
+}
